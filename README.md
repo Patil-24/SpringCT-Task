@@ -32,7 +32,7 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Patil-24/SpringCT-Task.git)https://github.com/Patil-24/SpringCT-Task.git
+   git clone https://github.com/Patil-24/SpringCT-Task.git
    
 2. Navigate to directory and install packages:
 
